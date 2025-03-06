@@ -1,0 +1,30 @@
+/* Page Styling */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Heading Styling */
+h1 {
+    color: #003366;
+    text-align: center;
+}
+
+h2 {
+    color: #00509e;
+}
+
+/* Paragraph Styling */
+p {
+    color: #333;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Horizontal Rule Styling */
+hr {
+    border: 1px solid #00509e;
+    margin: 10px 0;
+}
